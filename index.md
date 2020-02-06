@@ -33,10 +33,4 @@ Mingu Kang, <b>Taewan Kim</b>, Youngjae Kim, and Junghwan Ahn. 2015. FamCom: A C
 
 <b>Aug, 2018</b>: I moved into Seoul National University (Interdisciplinary Program in Cognitive Science) as a PhD Student.
 
-<hr>
 
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
