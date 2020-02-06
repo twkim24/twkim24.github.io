@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p><font size="+20"><b>Taewan Kim</b></font></p>
-     <p>I'm a PhD student in the DxD Lab at Seoul National University advised by Hwajung Hong.</p>
+     <p>I'm a PhD student in the DxD Lab at Seoul National University advised by Hwajung Hong. My research interests include Human-Computer Interaction, Social Computing, and Mental Welbeing.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
