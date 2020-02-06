@@ -5,7 +5,7 @@ url: "https://twkim24.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Taewan Kim
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Hi my name is Taewan Kim</p>
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p><font size="+20"><b>Taewan Kim</b></font></p>
+     <p>I'm a PhD student in the DxD Lab at Seoul National University advised by Hwajung Hong.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
