@@ -8,8 +8,6 @@ layout: default
 
 <b>Aug, 2018</b>: I moved into Seoul National University (Interdisciplinary Program in Cognitive Science) as a PhD Student.
 
-
-
 ### About
 
 I'm a PhD student in the DxD(data interaction design) Lab at Seoul National University advised by prof.Hwajung Hong. I have received a master's degree in Creative Design Engineering from <a href="https://www.unist.ac.kr/" target="_blank">National Institute of Science and Technology(UNIST)</a> advised by Prof.Hwajung Hong. There, I joined DxD (Data Interaction Design) Lab where we focus on designing systems that empower individuals and crowds toward creativity and connectivity. I received a bachelor's degree in Industrial Design and an interdisciplinary degree in Entrepreneurship from <a href="https://www.handong.edu/eng/" target="_blank">Handong University</a>. My research interests include Social Computing, Conversational agents, Interactive system design for Mental & Physical Welbeing, and Human-Computer Interaction.
@@ -33,13 +31,7 @@ Mingu Kang, <b>Taewan Kim</b>, Youngjae Kim, and Junghwan Ahn. 2015. FamCom: A C
 
 ### Past updates
 
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
+<b>Aug, 2018</b>: I moved into Seoul National University (Interdisciplinary Program in Cognitive Science) as a PhD Student.
 
 <hr>
 
