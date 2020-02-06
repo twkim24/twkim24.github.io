@@ -1,9 +1,0 @@
----
-layout: post
-title: CHI 2020 paper conditionally accepted!
-feature-img: "assets/img/sample_feature_img.png"
----
-Our paper titled "In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma" has been accepted to CHI2020. Big thanks for co-author Mintra and my advisor Prof. Hwajung.
-
-<b>Abstract</b>
-Helping others can have a positive effect on both the giver and the receiver. However, supporting someone with depression can be complicated and overwhelming. To address this, we proposed a Facebook-based social bot displaying depressive symptoms and disclosing vulnerable experiences that allows users to practice providing reactions online. We investigated how 55 college students interacted with the social bot for three weeks and how these support-giving experiences affected their mental health and stigma. By responding to the bot, the par- ticipants reframed their own negative experiences, reported reduced feelings of danger regarding an individual with depression and increased willingness to help the person, and presented favorable attitudes toward seeking treatment for depression. We discuss design opportunities for accessible social bots that could help users to keep practicing peer support interventions without fear of negative consequences.
