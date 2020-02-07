@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Taewan Kim
   I’m a PhD student in the DxD(data interaction design) Lab at Seoul National University advised by Prof. Hwajung Hong.
-feature_image: /assets/home.png
+feature_image: /assets/home.jpg
 excerpt: 
 ---
 #### Hi there!
