@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Publications
+title: 
+feature_text: |
+  ## Publications
+  Papers, Posters, Deomos, and Workshop
+feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-
 <b>Taewan Kim</b>, Mintra Ruensuk, and Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI’20), <i>to appear</i>.
 
 <b>Taewan Kim</b>, James Andrew Self, and Hwajung Hong. 2018. Design Constraints and Their influence upon Design Outcome.Archives of Design Research, 31(4), 23-41. <i>Scopus indexed journal</i> <a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">link</a> 
