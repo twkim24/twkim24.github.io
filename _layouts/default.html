@@ -1,27 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
-
-  <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
-  <link rel="canonical" href="{{ site.url }}" />
-</head>
-<body>
-  <article>
-   <div class="container">
-    <h1><a href="./">{{ site.tag_text }}</a></h1>
-    {{ content }}
+<html>
+  {% include head.html %}
+  <body>
+    <div class="page-content">
+      {{ content }}
+      <div class="copyright">
+        <p>&copy; {{ site.time | date: '%Y' }} <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a> ― Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/textlog">Textlog theme</a></p>
+      </div>
     </div>
-  </article>
-<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
-</body>
+    {% include google_analytics.html %}
+  </body>
 </html>

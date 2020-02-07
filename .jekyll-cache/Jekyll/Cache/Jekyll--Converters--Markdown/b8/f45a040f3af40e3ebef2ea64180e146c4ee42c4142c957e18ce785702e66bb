@@ -1,0 +1,15 @@
+I"€<p>Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.</p>
+
+<ul>
+  <li>Content-focused post layout</li>
+  <li>Using system fonts like GitHub - no Google Fonts</li>
+  <li>Supports article tagging</li>
+  <li>White clean design</li>
+  <li>Contains intro section on homepage</li>
+  <li>Supports comment if enabled - using <a href="https://disqus.com/">Disqus comment</a></li>
+  <li>Responsive and mobile-friendly</li>
+  <li>Post can have specific author name displayed on post metadata - apply via yaml front matter</li>
+</ul>
+
+<p><a href="https://github.com/heiswayi/textlog">Source code on GitHub</a></p>
+:ET

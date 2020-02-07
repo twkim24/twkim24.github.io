@@ -1,5 +1,13 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
+# TextLog
 
-### [Demo and Documentation](https://adueck.github.io/good-clean-read)
+> Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-1.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/textlog.svg?branch=gh-pages)
+
+- **Demo:** https://heiswayi.github.io/textlog/
+
+![SCREENSHOT](https://i.imgur.com/yXqbM4S.png)
+
+## License
+
+[MIT](LICENSE.md)

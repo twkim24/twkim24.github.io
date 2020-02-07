@@ -1,13 +1,21 @@
 # Site settings
-title: Taewan Kim
-tag_text: Taewan Kim
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "http://127.0.0.1:4000"
-baseurl: ""
-
-font-awesome-include: true # make this false if you don't need font-awesome
+title: "Taewan Kim"
+description: "Minimalist Jekyll theme for documentation site"
+baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+url: ""
+author: "John Doe"
 
 # Build settings
-markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
 
-exclude: ["README.md"]
+# Third-party services
+# just leave empty to disable it
+google_analytics:
+disqus_shortname: 
+
+plugins:
+  - jekyll-sitemap
+
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
