@@ -85,7 +85,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Taewan Kim" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "This is my portfolio website" # Site description and default description, also used in jekyll-seo-tag
+description:  # Site description and default description, also used in jekyll-seo-tag
 url: "https://twkim24.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -125,7 +125,7 @@ navigation_header:
   url: /cv/
 
 navigation_footer:
-- title: All contents © Taewan Kim. Theme Created by David Darnes
+- title: 
   url: https://twkim24.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
