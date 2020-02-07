@@ -4,7 +4,7 @@ title:
 feature_text: |
   ## Publications
   Papers, Posters, Deomos, and Workshop
-feature_image: "https://picsum.photos/1300/400?image=10"
+feature_image: "https://picsum.photos/1300/400?image=213"
 ---
 <b>Taewan Kim</b>, Mintra Ruensuk, and Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI’20), <i>to appear</i>.<br><i>-Conference Proceeding, full-paper</i>
 
