@@ -3,7 +3,7 @@ layout: page
 title: 
 feature_text: |
   ## Research
-  Research projects and topics
+  Research and Design projects
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 #### Designing Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma
