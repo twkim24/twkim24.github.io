@@ -6,10 +6,14 @@ feature_text: |
   Papers, Posters, Deomos, and Workshop
 feature_image: "https://picsum.photos/1300/400?image=213"
 ---
-<b>Taewan Kim</b>, Mintra Ruensuk, and Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI’20), <i>to appear</i>.<br><i>-Conference Proceeding, full-paper</i>
+<b>In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma</b><br>
+<u>Taewan Kim</u>, Mintra Ruensuk, and Hwajung Hong <br>
+<i>ACM CHI 2020, full-paper (to appear)</i>
 
-<b>Taewan Kim</b>, James Andrew Self, and Hwajung Hong. 2018. Design Constraints and Their influence upon Design Outcome.Archives of Design Research, 31(4), 23-41. <a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">link</a>
-<br><i>-Scopus indexed journal, full-paper</i> 
+<b>Design Constraints and Their influence upon Design Outcome</b><br> 
+<u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
+<i>Archives of Design Research, 31(4), 23-41. Scopus indexed journal</i> <a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank"> link</a>
+
 
 <b>Taewan Kim</b>, and Hwajung Hong. 2018. Studying Students Experiencing Mental Health Problems. ACM CSCW 2018 Workshop. <a href="https://drive.google.com/open?id=1CHSTtNAiKYv0aA1ikpc4owbm_e_h2TzS" target="_blank">pdf</a> 
 <br><i>-Conference workshop position paper, Extended Abstract</i> 
