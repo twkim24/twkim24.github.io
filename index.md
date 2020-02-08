@@ -15,7 +15,6 @@ I'm a PhD student in the DxD(data interaction design) Lab at <a href="https://ww
 - <b>Aug, 2018</b>: I moved into Seoul National University (Interdisciplinary Program in Cognitive Science) as a PhD Student.
 
 ### Contact
-taewankim@snu.ac.kr
+<a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
 <br>
-twkim24@gmail.com
-
+<a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
