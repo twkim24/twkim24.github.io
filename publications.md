@@ -23,4 +23,4 @@ feature_image: "https://picsum.photos/1300/400?image=213"
 
 <b>FamCom: A Communication Service Enhancing Conversation Quality Between Elders Residing in Care Hospital and Their Family Member</b><br>
 Mingu Kang, <u>Taewan Kim</u>, Youngjae Kim, and Junghwan Ahn<br> 
-<i>ACM CHI 2015, Extended Abstract (Student Design Competition)</i> <a href="https://doi.org/10.1145/2702613.2726952" target="_blank"> link</a>
+<i>ACM CHI 2015, Extended Abstract (Student Design Competition)</i> <a href="https://doi.org/10.1145/2702613.2726952" target="_blank"> link</a> / <a href="https://youtu.be/hnQ5MZfrw60" target="_blank">video</a>
