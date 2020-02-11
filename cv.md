@@ -2,7 +2,7 @@
 layout: page
 title: 
 feature_text: |
-  ## Curriculum Vitae & Contact
+  ## Contact
 feature_image: "https://picsum.photos/1300/400?image=374"
 ---
 

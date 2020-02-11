@@ -36,7 +36,7 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 6 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -121,7 +121,7 @@ navigation_header:
   #url: /categories/
 # - title: Search
   #url: /search/
-- title: CV&Contact
+- title: Contact
   url: /cv/
 
 navigation_footer:
@@ -129,13 +129,13 @@ navigation_footer:
   url: https://twkim24.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/twkim24
+  #Twitter: https://twitter.com/twkim24
   #LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/twkim24
-  link: https://twkim24.github.io
+  #GitHub: https://github.com/twkim24
+  #link: https://twkim24.github.io
   #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+  #Twitter: "#0d94e7"
+  #facebook: "#3B5998"
+  #Email: true
