@@ -5,6 +5,13 @@ feature_text: |
   ## Curriculum Vitae
 feature_image: "https://picsum.photos/1300/400?image=374"
 ---
-Download by click <a href="https://www.unist.ac.kr/" target="_blank">here</a>
 
-Updated: 2020.02.07
+#### Contact
+<a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
+<br>
+<a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
+
+#### CV
+I will update my CV as soon as it is ready.<br>
+If you need a resume, please contact me by e-mail.
+

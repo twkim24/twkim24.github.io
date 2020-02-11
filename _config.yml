@@ -121,8 +121,8 @@ navigation_header:
   #url: /categories/
 # - title: Search
   #url: /search/
-#- title: CV
-  #url: /cv/
+- title: CV & Contact
+  url: /cv/
 
 navigation_footer:
 - title: 
