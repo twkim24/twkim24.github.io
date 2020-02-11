@@ -10,7 +10,7 @@ I’m a PhD student studying Human-computer Interaction at <a href="https://www.
 <br><br>
 My research interests include Interactive system design for Mental & Physical Wellbeing, Social Computing, Bot-Human Interaction, and general Human-computer Interaction topics.
 <br><br>
-I received a master's degree in Creative Design Engineering from <a href="https://www.unist.ac.kr/" target="_blank">Ulsan National Institute of Science and Technology(UNIST)</a> (2016-2018, advised by Prof. Hwajung Hong) and bachelor's degree in Industrial Design and Entrepreneurship from <a href="https://www.handong.edu/eng/" target="_blank">Handong University</a> (2011-2016).
+I received a master's degree in Creative Design Engineering from <a href="https://www.unist.ac.kr/" target="_blank">Ulsan National Institute of Science and Technology(UNIST)</a> (2016-2018, advised by Prof. Hwajung Hong) and a bachelor's degree in Industrial Design and Entrepreneurship from <a href="https://www.handong.edu/eng/" target="_blank">Handong University</a> (2011-2016).
 
 ### News
 - <b>Nov, 2019</b>: Our paper titled “In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma” got accepted to CHI 2020. <a href="/academic/2019/11/09/chi2020/">read</a> 
