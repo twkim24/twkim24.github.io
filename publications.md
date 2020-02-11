@@ -12,7 +12,7 @@ feature_image: "https://picsum.photos/1300/400?image=213"
 
 <b>Design Constraints and Their influence upon Design Outcome</b><br> 
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
-<i>Archives of Design Research 2018, 31(4), 23-41. Scopus indexed journal</i> 
+<i>Archives of Design Research 2018, Scopus indexed journal</i> 
 <br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank"> link</a>
 
 <b>Studying Students Experiencing Mental Health Problems</b><br>
