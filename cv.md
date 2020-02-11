@@ -12,4 +12,4 @@ feature_image: "https://picsum.photos/1300/400?image=374"
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
 
 #### CV
-If you need my CV, please contact me by e-mail.
+Please contact me by e-mail.
