@@ -13,5 +13,4 @@ feature_image: "https://picsum.photos/1300/400?image=374"
 
 #### CV
 I will update my CV as soon as it is ready.<br>
-If you need a resume, please contact me by e-mail.
-
+If you need a resume, please contact me by e-mail
