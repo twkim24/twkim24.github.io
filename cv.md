@@ -12,5 +12,5 @@ feature_image: "https://picsum.photos/1300/400?image=374"
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
 
 #### CV
-I am currently working on making CV. I will update my CV as soon as it is ready.<br>
-If you need a CV, please contact me by e-mail.
+I will update my CV as soon as it is ready.<br>
+If you need a resume, please contact me by e-mail
