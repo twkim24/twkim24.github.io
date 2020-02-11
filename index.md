@@ -8,7 +8,7 @@ excerpt:
 #### Hi there!
 I’m a PhD student studying Human-computer Interaction at <a href="https://www.snu.ac.kr/" target="_blank"> Seoul National University</a>, advised by Prof. <a href="http://hwajunghong.com/" target="_blank">Hwajung Hong</a>, as a member of DxD(data interaction design) Lab.
 <br><br>
-My research interests include Interactive system for Mental & Physical Wellbeing, Social Computing, Bot-Human Interaction, and general Human-computer Interaction topics.
+My research interests include Interactive system design for Mental & Physical Wellbeing, Social Computing, Bot-Human Interaction, and general Human-computer Interaction topics.
 <br><br>
 I received a master's degree in Creative Design Engineering from <a href="https://www.unist.ac.kr/" target="_blank">Ulsan National Institute of Science and Technology(UNIST)</a> (2016-2018, advised by Prof. Hwajung Hong) and bachelor's degree in Industrial Design and Entrepreneurship from <a href="https://www.handong.edu/eng/" target="_blank">Handong University</a> (2011-2016).
 
