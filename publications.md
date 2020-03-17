@@ -10,7 +10,7 @@ feature_image: "https://picsum.photos/1300/400?image=213"
 <u>Taewan Kim</u>, Mintra Ruensuk, and Hwajung Hong <br>
 <i>ACM CHI 2020, Full paper (to appear)</i>
 
-<b>Design Constraints and Their influence upon Design Outcome</b><br> 
+<b>Design Constraints and Their Influence upon Design Outcome</b><br> 
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
 <i>Archives of Design Research 2018 (Scopus indexed journal), Full paper</i> 
 <br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank"> link</a>
