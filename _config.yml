@@ -64,13 +64,10 @@ timezone: Asia/Seoul # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title:  # Needed for Siteleaf
+    title:  Blog
     output: true
     description:  # The post list page content
-    feature_text: |
-      ## Posts
-      News, Thoughts, and Ideas
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    
 
 # 6. Jekyll collections settings
 defaults:

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 
-feature_text: |
-  ## Contact
-feature_image: "https://picsum.photos/1300/400?image=374"
+title: Contact
+//feature_text: |
+  //## Contact
+//feature_image: "https://picsum.photos/1300/400?image=374"
 ---
-
-#### Contact
+<br>
+#### Mail
 <a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
