@@ -9,7 +9,7 @@ title: Contact
 
 #### Taewan Kim
 Ph.D. Student at Interdisciplinary Program in Cognitive Science, Seoul National University <br>
-Member of DxD(data interaction design) Lab directed by Prof. Hwajung Hong
+Member of DxD(data interaction design) Lab, directed by Prof. Hwajung Hong
 <a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
