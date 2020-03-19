@@ -14,7 +14,7 @@ title: Publications
 
 ###### Design Constraints and Their Influence upon Design Outcome
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
-<i>Archives of Design Research 2018 (Scopus indexed journal), Full paper</i> 
+_Archives of Design Research 2018 (Scopus indexed journal), Full paper_
 <br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a>
 
 ###### Studying Students Experiencing Mental Health Problems
