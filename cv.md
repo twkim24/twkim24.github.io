@@ -14,5 +14,5 @@ Member of DxD(data interaction design) Lab, directed by Prof. Hwajung Hong
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
 
-#### CV
-Please contact me by e-mail.
+//#### CV
+//Please contact me by e-mail.
