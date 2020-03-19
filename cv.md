@@ -13,5 +13,5 @@ Member of DxD(data interaction design) Lab, directed by Prof. Hwajung Hong
 <a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
-
-
+<a href="https://twitter.com/twkim24" target="_top">Twitter</a> / <a href="https://www.instagram.com/twkim24/" target="_top">Instagram</a>
+<br>
