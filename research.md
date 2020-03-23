@@ -20,7 +20,7 @@ In this study, we proposed a Facebook-based social bot displaying depressive sym
 ##### Understanding the Time-Management Challenges of College Students through Self-Tracking
 by <u>Taewan Kim</u>, Yonghoon Park, and Hwajung Hong <br>
 ![My helpful screenshot](/assets/failtracker.jpg)
-<b>Keywords: Time management, Self-tracking, Productivity, Mental wellbeing, college student</b><br>
+<b>Keywords: Time management, Self-tracking, Productivity, Mental wellbeing, College student</b><br>
 Many college students struggle with time management. While the majority of studies address how to tackle time management to improve productivity, attempts to identify what constitutes poor management have been lacking. To unpack the complex nature of time-management challenges, we analyzed 284 perceived time-wasting events of 31 college students through a two-week diary study.
 <br>
 <i>Work in Progress</i>
