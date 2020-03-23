@@ -27,7 +27,7 @@ Many college students struggle with time management. While the majority of studi
 <br><br>
 
 ##### Calm Station: An Interactive Perpetual Desk Object that Reduces Digital Distractions
-by <u>Taewan Kim</u>, Young-Woo Park, and Hwajung Hong <br>
+by <u>Taewan Kim</u>, Youngwoo Park, and Hwajung Hong <br>
 ![My helpful screenshot](/assets/calm.jpg)
 <b>Keywords: Digital distraction, Mental wellbeing, Notification, Interaction design</b><br>
 In this work, we present Calm Station, an interactive desk object which generate dynamic motions of a metal marble on a wooden tray. Calm Station is designed to convey daily notifications with abstract, poetic movements. It allows users to remain focused while doing desk work, reading, or relaxing by transferring distracting notifications, including updates and messages.
