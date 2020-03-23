@@ -32,7 +32,7 @@ by Mingu Kang, <u>Taewan Kim</u>, Youngjae Kim, and Junghwan Ahn<br>
 <b>Keywords: Social computing, Communication, Care-hospital</b><br>
 FamCom is a service which aids a patient in care hospital to feel more intimate with family members by improving the quality of conversation. We conducted survey, contextual inquiry, personas, scenarios and user test using low and high-fidelity prototypes to enhance the quality of conversation. According to our research lack of conversation topics depreciates the quality of conversation. FamCom provides conversation sources to family members to increase the intimacy between patient and family members.
 <br>
-<a href="https://dl.acm.org/doi/10.1145/2702613.2726952" target="_blank">ACM CHI 2015 Student Design Competition</a> | <a href="https://youtu.be/hnQ5MZfrw60" target="_blank">Video</a>
+<a href="https://dl.acm.org/doi/10.1145/2702613.2726952" target="_blank">ACM CHI2015 Student Design Competition</a> | <a href="https://youtu.be/hnQ5MZfrw60" target="_blank">Video</a>
 <br><br>
 
 ##### Understanding the Time-Management Challenges of College Students through Self-Tracking
