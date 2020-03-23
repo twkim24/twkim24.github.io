@@ -222,6 +222,7 @@ a {
     font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, regular);
+    font-variant-ligatures: no-common-ligatures;
     width: 100%;
 
     thead {
@@ -277,6 +278,7 @@ a {
     p {
       border-left: 0.15rem solid $linkColour;
       font-style: map-get($bodytype, italic);
+      font-variant-ligatures: no-common-ligatures;
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.

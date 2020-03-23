@@ -15,5 +15,5 @@ Member of DxD(data interaction design) Lab, directed by Prof. Hwajung Hong <br>
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a> <br>
 ###### Social media
-<a href="https://twitter.com/twkim24" target="_blank">Twitter</a> / <a href="https://www.instagram.com/twkim24/" target="_blank">Instagram</a>
+<a href="https://twitter.com/twkim24" target="_blank">Twitter</a> | <a href="https://www.instagram.com/twkim24/" target="_blank">Instagram</a>
 <br>
