@@ -8,20 +8,20 @@ title: Publications
 ---
 <br>
 
-#### <u>Conference Proceedings</u>
+#### Conference Proceedings
 <br><b>In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma</b><br>
 <u>Taewan Kim</u>, Mintra Ruensuk, and Hwajung Hong <br>
 <i>ACM CHI 2020, Full paper (to appear)</i>
 <br><br>
 
-#### <u>Journal Articles</u>
+#### Journal Articles
 <br><b>Design Constraints and Their Influence upon Design Outcome</b><br>
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
 _Archives of Design Research 2018 (Scopus indexed journal), Full paper_
 <br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=14Bx8AF0Dts-Qta02l5SBD2ZOmWnF3dpl" target="_blank">Paper</a>
 <br><br>
 
-#### <u>Extended Abstracts</u>
+#### Extended Abstracts
 <br><b>Studying Students Experiencing Mental Health Problems</b><br>
 <u>Taewan Kim</u>, and Hwajung Hong<br>
 <i>ACM CSCW 2018 Workshop on Conducting Research with Stigmatized Populations, Extended abstract</i>
