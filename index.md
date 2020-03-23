@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  # Taewan Kim
+  <h7>Taewan Kim</h7>
 feature_image: /assets/home.jpg
 excerpt: 
 ---

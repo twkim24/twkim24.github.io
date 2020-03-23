@@ -62,7 +62,7 @@ a {
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6, h7 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
@@ -99,6 +99,11 @@ a {
   // Heading level 6.
   h6, .zeta {
     @include sassline(zeta, $headingtype, 2, 0, all);
+  }
+
+  // Heading level 7.
+  h7, .taewan {
+    @include sassline(taewan, $headingtype, 3, 1, all);
   }
 
   // Lists.
