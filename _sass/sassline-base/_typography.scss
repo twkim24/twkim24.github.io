@@ -17,6 +17,7 @@ body {
   font-style: normal;
   font-weight: map-get($bodytype, regular);
   line-height: 2rem;
+  font-variant-ligatures: no-common-ligatures;
 }
 
 // Links.
@@ -24,10 +25,12 @@ a {
   color: $linkColour;
   text-decoration: none;
   transition: color .1s, background-color .1s;
+  font-variant-ligatures: no-common-ligatures;
 
   &:hover, &:active, &:focus {
     color: $hoverColour;
     text-decoration: none;
+    font-variant-ligatures: no-common-ligatures;
   }
 }
 
@@ -55,6 +58,7 @@ a {
     @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 
     font-feature-settings: 'kern', 'onum', 'liga';
+    font-variant-ligatures: no-common-ligatures;
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
@@ -64,6 +68,7 @@ a {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+    font-variant-ligatures: no-common-ligatures;
   }
 
   // Heading level 1.
