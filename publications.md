@@ -18,7 +18,7 @@ title: Publications
 <br><b>Design Constraints and Their Influence upon Design Outcome</b><br>
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
 _Archives of Design Research 2018 (Scopus indexed journal), Full paper_
-<br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="/assets/files/aodr.pdf/" target="_blank">Paper</a>
+<br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="twkim24.github.io/assets/files/aodr.pdf/" target="_blank">Paper</a>
 
 --------------------------------------------------------
 #### Extended Abstracts
