@@ -46,9 +46,9 @@ social: # jekyll-seo-tag > social overrides
   name: Taewan Kim # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/twkim24
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://www.facebook.com/twkim24
+    - https://www.linkedin.com/in/twkim24
+    - https://github.com/twkim24
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -85,10 +85,10 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Taewan Kim" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description:  # Site description and default description, also used in jekyll-seo-tag
+description:  I’m a PhD student studying Human-computer Interaction (HCI) at Seoul National University, advised by Prof. Hwajung Hong, as a member of DxD (data interaction design) Lab.
 url: "https://twkim24.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/twkim24/twkim24"
 email: "twkim24@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
@@ -129,10 +129,10 @@ navigation_footer:
   url: https://twkim24.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  #Twitter: https://twitter.com/twkim24
-  #LinkedIn: https://www.linkedin.com/in/daviddarnes
-  #GitHub: https://github.com/twkim24
-  #link: https://twkim24.github.io
+  Twitter: https://twitter.com/twkim24
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/twkim24
+  link: https://twkim24.github.io
   #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

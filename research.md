@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Research and Projects
-//feature_text: |
-  //## Research
-  //Research and Design projects
-//feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 <br>
 
