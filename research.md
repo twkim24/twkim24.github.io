@@ -38,5 +38,3 @@ by <u>Taewan Kim</u>, Yonghoon Park, and Hwajung Hong <br>
 Many college students struggle with time management. While the majority of studies address how to tackle time management to improve productivity, attempts to identify what constitutes poor management have been lacking. To unpack the complex nature of time-management challenges, we analyzed 284 perceived time-wasting events of 31 college students through a two-week diary study.
 <br>
 <i><u>Work in Progress</u></i>
-
-----------
