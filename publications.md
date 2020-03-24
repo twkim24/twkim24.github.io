@@ -18,20 +18,20 @@ title: Publications
 <br><b>Design Constraints and Their Influence upon Design Outcome</b><br>
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
 _Archives of Design Research 2018 (Scopus indexed journal), Full paper_
-<br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=14Bx8AF0Dts-Qta02l5SBD2ZOmWnF3dpl" target="_blank">Paper</a>
+<br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="/assets/files/aodr.pdf/" target="_blank">Paper</a>
 
 --------------------------------------------------------
 #### Extended Abstracts
 <br><b>Studying Students Experiencing Mental Health Problems</b><br>
 <u>Taewan Kim</u>, and Hwajung Hong<br>
 <i>ACM CSCW 2018 Workshop on Conducting Research with Stigmatized Populations, Extended abstract</i>
-<br><a href="https://drive.google.com/open?id=1CHSTtNAiKYv0aA1ikpc4owbm_e_h2TzS" target="_blank">Extended abstract</a> | <a href="https://drive.google.com/open?id=18EvF-IxcAVaYAQ9gbnxuojhmqbXxiHWn" target="_blank">Presentation</a>
+<br><a href="/assets/files/stigma.pdf/" target="_blank">Extended abstract</a> | <a href="/assets/files/stigma_slide.pdf/" target="_blank">Presentation</a>
 
 <b>Calm Station: An Interactive Perpetual Desk Object that Reduces Digital Distractions</b><br>
 <u>Taewan Kim</u>, Young-Woo Park, and Hwajung Hong<br><i>ACM DIS 2017, Extended abstract (Demo)</i>
-<br><a href="https://doi.org/10.1145/3064857.3079183" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=1M6rPOFV3lEyjL5JPzq8seV9uUsFbycRH" target="_blank">Extended abstract</a> | <a href="https://youtu.be/gCBQhNUlmzo" target="_blank">Video</a>
+<br><a href="https://doi.org/10.1145/3064857.3079183" target="_blank">DOI</a> | <a href="/assets/files/calmstation.pdf/" target="_blank">Extended abstract</a> | <a href="https://youtu.be/gCBQhNUlmzo" target="_blank">Video</a>
 
 <b>FamCom: A Communication Service Enhancing Conversation Quality Between Elders Residing in Care Hospital and Their Family Member</b><br>
 Mingu Kang, <u>Taewan Kim</u>, Youngjae Kim, and Junghwan Ahn<br> 
 <i>ACM CHI 2015, Extended abstract (Student Design Competition)</i>
-<br><a href="https://doi.org/10.1145/2702613.2726952" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=149Zb1oxzCqKtF4PxcRviFjmhshODYZQT" target="_blank">Extended abstract</a> |  <a href="https://youtu.be/hnQ5MZfrw60" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=104g78XNFn-Xh1LVDKt-DLeGpeo85zp_u" target="_blank">Poster</a>
+<br><a href="https://doi.org/10.1145/2702613.2726952" target="_blank">DOI</a> | <a href="/assets/files/famcom.pdf/" target="_blank">Extended abstract</a> |  <a href="https://youtu.be/hnQ5MZfrw60" target="_blank">Video</a> | <a href="/assets/files/famcom_poster.pdf/" target="_blank">Poster</a>
