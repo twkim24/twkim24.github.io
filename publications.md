@@ -19,7 +19,7 @@ title: Publications
 <u>Taewan Kim</u>, James Andrew Self, and Hwajung Hong <br>
 _Archives of Design Research 2018 (Scopus indexed journal), Full paper_
 <br><a href="https://doi.org/10.15187/adr.2018.11.31.4.23" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=14Bx8AF0Dts-Qta02l5SBD2ZOmWnF3dpl" target="_blank">Paper</a>
-
+ 
 --------------------------------------------------------
 #### Extended Abstracts
 <br><b>Studying Students Experiencing Mental Health Problems</b><br>
