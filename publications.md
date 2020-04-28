@@ -11,7 +11,8 @@ title: Publications
 #### Conference Proceedings
 <br><b>In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma</b><br>
 <u>Taewan Kim</u>, Mintra Ruensuk, and Hwajung Hong <br>
-<i>ACM CHI 2020, Full paper (to appear)</i>
+<i>ACM CHI 2020, Full paper</i>
+<br><a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376743" target="_blank">DOI</a> | <a href="https://drive.google.com/open?id=1Mybrw_6DC98xS6KXUR0lcbENucuWuM3J" target="_blank">Paper</a>
 
 --------------------------------------------------------
 #### Journal Articles
