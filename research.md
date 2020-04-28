@@ -10,7 +10,7 @@ by <u>Taewan Kim</u>, Mintra Ruensuk, and Hwajung Hong <br>
 <b>Keywords: Mental wellbeing, Mental health, Social bot, Human-bot Interaction, College student</b><br>
 In this study, we proposed a Facebook-based social bot displaying depressive symptoms and disclosing vulnerable experiences that allows users to practice providing reactions online. We investigated how 55 college students interacted with the social bot for three weeks and how these support-giving experiences affected their mental health and stigma.
 <br>
-<a href="https://programs.sigchi.org/chi/2020/program/content/32202" target="_blank">ACM CHI2020 Full paper (to appear)</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376743" target="_blank">ACM CHI2020 Full paper</a>
 
 ----------
 ##### Calm Station: An Interactive Perpetual Desk Object that Reduces Digital Distractions
