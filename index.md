@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  <h7><p style="color:#ff2079;">Taewan Kim</p></h7>
+  <h7><p style="color:white;">Taewan Kim</p></h7>
 feature_image: /assets/texture.jpg
 excerpt: 
 ---
@@ -21,3 +21,5 @@ I received a master's degree in Creative Design Engineering from <a href="https:
 <a href="mailto:taewankim@snu.ac.kr?Subject=" target="_top">taewankim@snu.ac.kr</a>
 <br>
 <a href="mailto:twkim24@gmail.aocm?Subject=" target="_top">twkim24@gmail.com</a>
+
+<span>Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paweł Czerwiński</a> on <a href="https://unsplash.com/s/photos/texture-fluid?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
