@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  <h7><p style="color:white;">Taewan Kim</p></h7>
+  <h7><p style="color:#ff2079;">Taewan Kim</p></h7>
 feature_image: /assets/texture.jpg
 excerpt: 
 ---
