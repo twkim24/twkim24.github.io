@@ -1,12 +1,12 @@
 ---
 title: 
-feature_text: |
+feature_text:
   <h7><p style="color:white;">Taewan Kim</p></h7>
 feature_image: /assets/texture.jpg
 excerpt: 
 ---
 #### Hi there!
-I’m a PhD student studying Human-computer Interaction (HCI) at <a href="https://www.snu.ac.kr/" target="_blank"> Seoul National University</a>, advised by Prof. <a href="http://hwajunghong.com/" target="_blank">Hwajung Hong</a>, as a member of DxD (data interaction design) Lab.
+I’m a PhD student studying Human-computer Interaction (HCI) at <a href="https://www.snu.ac.kr/" target="_blank"> Seoul National University</a>, advised by Prof. <a href="http://hwajunghong.com/" target="_blank">Hwajung Hong</a>, as a member of <a href="http://dxd.snu.ac.kr/" target="_blank"> DxD (data interaction design) Lab </a>.
 <br><br>
 My research interests include Interactive system design for mental & physical wellbeing, Social computing, Human-AI interaction, and general Human-computer interaction topics.
 <br><br>
