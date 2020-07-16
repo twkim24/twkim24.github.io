@@ -46,15 +46,15 @@ body {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: left;
+  text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: left;
+  background-position: center;
   .container {
     min-height: 35vh;
     max-width: 60%;
     @include flex-direction(column);
-    @include justify-content(left);
+    @include justify-content(center);
   }
 }
 
