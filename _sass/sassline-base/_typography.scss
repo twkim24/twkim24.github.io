@@ -104,6 +104,7 @@ a {
   // Heading level 7.
   h7, .taewan {
     @include sassline(taewan, $headingtype, 3, 1, all);
+    text-align: left;
   }
 
   // Lists.
