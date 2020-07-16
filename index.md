@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   <h7>Taewan Kim</h7>
-feature_image: /assets/home.jpg
+feature_image: /assets/texture.jpg
 excerpt: 
 ---
 #### Hi there!
